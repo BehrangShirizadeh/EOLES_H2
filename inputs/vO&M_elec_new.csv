@@ -1,0 +1,16 @@
+biogas1,0.08
+biogas2,0.08
+biogas3,0.08
+Battery1,0.000001
+Battery4,0.000001
+phs,0.000001
+phs_n,0.000001
+methanation1,0.005444
+methanation2,0.005444
+methanation3,0.005444
+hydrogen,0.01
+nuc,0.01
+ngas1,0.0252
+ngas2,0.0252
+ngas3,0.0252
+ccgt-ccs,0.00576
