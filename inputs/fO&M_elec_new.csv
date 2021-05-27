@@ -7,10 +7,10 @@ river,14.85
 lake,11.375
 nuc,115
 OCGT,16.5
-CCGT-CCS,
+CCGT,40
 PHS,7.5
-PHS_n,7.5
 Battery1,8.925
+electrolysis,5.25
 battery4,21
-hydrogen,20
+h2_ccgt,40
 SC,3
